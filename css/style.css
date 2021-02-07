@@ -10,7 +10,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url('../img/wow.png') bottom center no-repeat;
+    background: url('../img/centered.png') bottom center no-repeat;
     background-size: cover;
     font-size: 1em;
     }
@@ -18,13 +18,12 @@ body{
 .centered{
     padding: 0 3.125em;
     font-family: 'Montserrat', sans-serif;
-    background: #f16059;
+    background: #0305f6;
     }
     
 h1{
     font-size: 2em;
     color: #fff;
-    text-align: center;
     }
 
 /***  MEDIA ADJUSTMENTS  ***/
